@@ -1,0 +1,24 @@
+{
+    "locations": [
+        {
+            "id":"L001",
+            "title":"Municipal Council Car Park",
+            "imageLocation":"",
+            "description":"Panadura Urban Council, Panadura",
+            "rate": 150.00,
+            "distance":2.00,
+            "openTime":8,
+            "closeTime":10
+        },
+        {
+            "id":"L002",
+            "title":"Super Fashion Car Park",
+            "imageLocation":"",
+            "description":"Super Fashion Car Park, Panadura",
+            "rate": 250.00,
+            "distance":2.50,
+            "openTime":8,
+            "closeTime":10
+        }
+    ]
+}
